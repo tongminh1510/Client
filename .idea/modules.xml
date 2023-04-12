@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Client.iml" filepath="$PROJECT_DIR$/Client.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/AssignThree_2nd.iml" filepath="$PROJECT_DIR$/AssignThree_2nd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderPayment.iml" filepath="$PROJECT_DIR$/OrderPayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderService.iml" filepath="$PROJECT_DIR$/OrderService.iml" />
+>>>>>>> origin/feature/paymentService
     </modules>
   </component>
 </project>
